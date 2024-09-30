@@ -35,3 +35,32 @@ Kemudian, pengguna diminta untuk mmemilih menghitung kembali atau tidak
 Jika iya, pengguna akan diarahkan kembali pada proses pengimputan harga barang dan jumlah pembelian
 
 Jika tidak, maka program akan berhenti
+
+## Output
+
+![Screenshot 2024-10-01 000119](https://github.com/user-attachments/assets/9cee372b-4d9f-4f3b-9ce8-82add913671d)
+
+Pengguna akan diminta untuk melakukan login terlebih dahulu. Jika data pengguna yang diinputkan sesuai, maka pengguna dapat untuk melakukan perhitungan harga barang dan pembelian.
+
+Pada output yang diatas menunjukkan bahwa perhitungan yang dilakukan pengguna memenuhi syarat untuk menerima diskon. Sehingga outputnya menghasilkan harga diskon (total harga yang terlah dipotong diskon)
+
+![Screenshot 2024-10-01 000152](https://github.com/user-attachments/assets/56b4429e-7410-4650-bb09-b0250638e58d)
+
+Jika perhitungan yang dilakukan pengguna tidak memenuhi syarat untuk menerima diskon, maka pengguna akan menerima pemberitahuan bahwa hasil perhitungannya tidak mendapatkan diskon.
+
+![Screenshot 2024-10-01 000227](https://github.com/user-attachments/assets/cbe06cf4-81bd-42c6-b102-11b564859162)
+
+Jika pengguna salah menginputkan nama dan nim, atau salah satu dari kedua tersebut. Maka pengguna akan diminta untuk login kembali hingga data yang diinputkan sesuai.
+
+
+### Output Keseluruhan
+
+![Screenshot 2024-10-01 000523](https://github.com/user-attachments/assets/ddc4b500-c67b-4398-8854-b7b9f503ec5e)
+
+
+
+
+
+
+
+
